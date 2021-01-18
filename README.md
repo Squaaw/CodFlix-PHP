@@ -1,9 +1,9 @@
 # FRANCAIS
 
-## CODFLIX N'EST NI UN SITE DE STREAMING OFFICIEL, NI UN SITE DE STREAMING ILLÉGAL !
-## C'EST UN PROJET DE FIN D'ANNÉE, ET LES CONTENUS UTILISÉS PROVIENNENT DE YOUTUBE !
+**CODFLIX N'EST NI UN SITE DE STREAMING OFFICIEL, NI UN SITE DE STREAMING ILLÉGAL !**
+**C'EST UN PROJET DE FIN D'ANNÉE, ET LES CONTENUS UTILISÉS PROVIENNENT DE YOUTUBE !**
 
-### Temps de développement : 3 jours.
+**Temps de développement : 3 jours.**
 
 1. Téléchargez et installez MAMP ici : https://www.mamp.info/en/downloads/?m=1581611990.
 2. Copiez l'intégralité de ce répertoire dans "htdocs" qui se situe dans le dossier "MAMP" (chemin par défaut : C:/MAMP/htdocs).
@@ -18,10 +18,10 @@
 
 # ENGLISH
 
-## CODFLIX IS NEITHER AN OFFICIAL STREAMING WEBSITE, NOR AN ILLEGAL STREAMING WEBSITE!
-## IT WAS CREATED AS A FINAL YEAR STUDY PROJECT AND CONTENTS USED ON THE WEBSITE COME FROM YOUTUBE!
+**CODFLIX IS NEITHER AN OFFICIAL STREAMING WEBSITE, NOR AN ILLEGAL STREAMING WEBSITE!**
+**IT WAS CREATED AS A FINAL YEAR STUDY PROJECT AND CONTENTS USED ON THE WEBSITE COME FROM YOUTUBE!**
 
-### Development time: 3 days.
+**Development time: 3 days.**
 
 1. Download and install MAMP here: https://www.mamp.info/en/downloads/?m=1581611990.
 2. Copy all files and folders from this folder to "htdocs" (default location on Windows: C:/MAMP/hdtocs).
