@@ -1,5 +1,10 @@
+# FRANCAIS
+
 ----------------
-    FRANCAIS
+CODFLIX N'EST NI UN SITE DE STREAMING OFFICIEL, NI UN SITE DE STREAMING ILLÉGAL !
+C'EST UN PROJET DE FIN D'ANNÉE, ET LES CONTENUS UTILISÉS PROVIENNENT DE YOUTUBE !
+
+Temps de développement : 3 jours.
 ----------------
 
 1. Téléchargez et installez MAMP ici : https://www.mamp.info/en/downloads/?m=1581611990.
@@ -13,8 +18,13 @@
 
 
 
+# ENGLISH
+
 ----------------
-    ENGLISH
+CODFLIX IS NEITHER AN OFFICIAL STREAMING WEBSITE, NOR AN ILLEGAL STREAMING WEBSITE!
+IT WAS CREATED AS A FINAL YEAR STUDY PROJECT AND CONTENTS USED ON THE WEBSITE COME FROM YOUTUBE!
+
+Development time: 3 days.
 ----------------
 
 1. Download and install MAMP here: https://www.mamp.info/en/downloads/?m=1581611990.
